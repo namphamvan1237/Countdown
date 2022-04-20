@@ -1,3 +1,3 @@
 # demnguockithi
 
-Trang web đếm ngược kì thi tốt nghiệp THPT (THPT Quốc gia)
+Remake countdown but for Android with Widget
